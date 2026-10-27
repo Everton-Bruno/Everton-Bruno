@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Everton-Bruno/Everton-Bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤 Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Sou o Everton Bruno, focado no ecossistema JavaScript e TypeScript. Trabalho no desenvolvimento de aplicações web robustas e escaláveis, buscando constantemente aplicar as melhores práticas de arquitetura e design de software. Estou em contínuo aprendizado para evoluir minhas habilidades técnicas e entregar códigos eficientes, limpos e de alto impacto.
+• 💻 Atuando como Desenvolvedor Junior.
+• 🛠️ Foco em desenvolvimento Back-end com Node.js/NestJS e Front-end com React.
+• 📐 Vivência prática com manipulação de dados utilizando ORMs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias e Ferramentas
+
+
+🚀 Linguagens & Frameworks
+
+
+🗄️ Persistência de Dados & Utilitários
+
+
+🚀 Projetos em Destaque
+
+Something went wrong and an AI response wasn't generated.
